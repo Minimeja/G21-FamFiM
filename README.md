@@ -1,10 +1,10 @@
-# FamFiM Prototype
+# FamFiM final implemented 
 
 Group: G21
 
 Team Members:
 - Minilik Meja
-- Gadise Oli
+- Gadise Oli Id 10129507
 
 Target Device:
 - iPhone 15 Pro
@@ -12,7 +12,7 @@ Target Device:
 Description:
 FamFiM is a Family Finance Manager app prototype with mock data and hardcoded information.
 
-Prototype Screens:
+ Screens:
 - Launch Screen
 - Dashboard
 - Expenses
